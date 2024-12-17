@@ -1,0 +1,36 @@
+=> Web Development  : 
+    Basic : 
+        1. HTML.   --> Hyper Text Markup Language    (Structure)
+        2. CSS.    --> Cascading Style Sheet         (design)
+        3. JS.     --> JavaScript                    (Functionality)
+
+
+1. Front-end Developer :  (client-side)
+             : HTML ,CSS,JS, React,Bootstrap...etc
+
+2. Back-end Developer :   (Server-side)
+            : Java ,Python ,Node JS ... etc
+
+3. Full-stack Developer : 
+            : Front-end + Back-end
+
+// ---------------------------------------------------------
+=> What is a HTML ? 
+-> HTML stands for Hyper Text Markup Language.
+                1. Hyper Text : 
+                     i. Hyper  : Hype (Linking)  (depands on Text)
+                    ii. Text   : Content (text,table,video,image..etc)
+
+                2. Markup Language : 
+                    text-encoding System.
+
+=> HTML Programing or Not? --> Not.
+-> HTML is a Markup Language.
+
+=> Use : 
+-> Create a Structure of Website/Webpage.
+
+        Webpage : Single HTML File.
+
+        Website : Collection of Mutiple Webpages(HTML Files).
+
