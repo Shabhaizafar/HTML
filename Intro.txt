@@ -34,3 +34,27 @@
 
         Website : Collection of Mutiple Webpages(HTML Files).
 
+// --------------------------------------------
+Extension : 
+1. .html (New HTML)
+2. .htm  (Old HTML)
+-----------------------------------------------
+History of HTML : 
+Founder/Developer/Father of HTML : Tim Berner's Lee.
+
+
+Version of HTML : 
+        HTML 1.0  -->  1991
+             1.1
+
+        HTML 2.0  -->  1995
+             2.2
+
+        HTML 3.0  -->  Jan,1997.
+
+        HTML 4.0  -->  Dec,1997
+             4.1
+                        2000
+
+        HTML 5.0  --> 2014
+             5.2  --> 2017
